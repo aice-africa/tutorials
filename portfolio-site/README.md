@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Installation Tutorial
 
-## Getting Started
+System Requirements:
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+Node.js 18.17 or later.
+macOS, Windows (including WSL), and Linux are supported.
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can make sure you have node 18.17.0 by using `nvm` , install `npm install nvm`:
+```bash
+❯ nvm current
+v18.16.0
+``
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+If your current npm is less than 18.17.0 then you can install the latest with 
+```bash
+❯ nvm install 18.17.0
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screenshot 2024-01-25 at 13 36 02](https://github.com/aice-africa/tutorials/assets/25654848/91610328-d878-4bbb-9b15-934b27d8ff4a)
 
-## Learn More
+Now we can see that our version of node is 18.17.0
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 2024-01-25 at 13 38 57](https://github.com/aice-africa/tutorials/assets/25654848/417b2f6e-ce13-432e-8195-6c696efc0aac)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Follow tutorial [here](https://nextjs.org/docs/getting-started/installation) 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+```bash
+npx create-next-app@latest
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+After this you can install packages in that project: 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+npm install
+```
+
+Now you are able to run the project: 
+```bash
+npm run dev
+```
+![Screenshot 2024-01-25 at 13 39 57](https://github.com/aice-africa/tutorials/assets/25654848/da9662ce-4763-4431-8d1d-98580fe22fad)
+
+
+Final view  should be like this: 
+
+![Screenshot 2024-01-25 at 13 40 58](https://github.com/aice-africa/tutorials/assets/25654848/4b0b84d6-c19f-4365-a21f-488ee9597381)
+
