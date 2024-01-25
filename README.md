@@ -26,6 +26,7 @@ Now we can see that our version of node is 18.17.0
 
 Follow tutorial [here](https://nextjs.org/docs/getting-started/installation) 
 
+
 ```bash
 npx create-next-app@latest
 ```
