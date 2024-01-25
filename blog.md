@@ -13,9 +13,14 @@ date: '2020-01-01'
 ---
 
 This blog is my first
-```
+``` 
+![Screenshot 2024-01-25 at 13 56 13](https://github.com/aice-africa/tutorials/assets/25654848/da58aae2-e758-45d5-8b85-c30b516e01b5)
 
-in `lib/posts.js` create 
+
+```bash 
+npm install gray-matter```
+
+Inside `lib/posts.js` paste the following code:
 
 ```javascript
 import fs from 'fs';
