@@ -40,3 +40,10 @@ Now you are able to run the project:
 ```bash
 npm run dev
 ```
+![Screenshot 2024-01-25 at 13 39 57](https://github.com/aice-africa/tutorials/assets/25654848/da9662ce-4763-4431-8d1d-98580fe22fad)
+
+
+Final view  should be like this: 
+
+![Screenshot 2024-01-25 at 13 40 58](https://github.com/aice-africa/tutorials/assets/25654848/4b0b84d6-c19f-4365-a21f-488ee9597381)
+
