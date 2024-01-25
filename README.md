@@ -7,6 +7,8 @@ Node.js 18.17 or later.
 macOS, Windows (including WSL), and Linux are supported.
 ```
 
+You can make sure you have node 18.17.0 by using `nvm` , install `npm install nvm`
+
 Follow tutorial [here](https://nextjs.org/docs/getting-started/installation) 
 
 ```bash
